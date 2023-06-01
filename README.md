@@ -1,5 +1,5 @@
 # ceng-407-408-2022-2023-Categorizing-Website-with-Data-Science
-Categorizing Website with Data Science
+Categorizing Website with Data Science using Python and Google Colabs tools
 Welcome to the ceng-407-408-2022-2023-Categorizing-Website-with-Data-Science wiki!
 
 ## Advisor
